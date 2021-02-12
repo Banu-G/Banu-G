@@ -1,4 +1,3 @@
-test-repo
-=========
+Hello There!
 
-This is a test repo
+This is my page with information on projects I am working on.
